@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web|Playfair+Display');
+
+   body{line-height:1;
+    margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+   
+   h1 {
+     font-family: 'Playfair Display';
+   }
+   
+   #particles-js{
+     width: 100%;
+     height: 100%;
+     background-color: #000020;
+     background-image: url('../assets/bgparticle.jpg');
+     background-size: cover;
+     background-position: 50% 50%;
+     background-repeat: no-repeat;
+   }
+
+   .highlight {
+    color: #8b2f5f;
+   }
+
+   #line {
+     color: #000020;
+     background-color: #000020;
+     height: 2px;
+     margin-left: 25px;
+     margin-right: 25px;
+   }
+
+   #block-container {
+    text-align: center;
+    top: 50vh;
+    transform: translateY(-50%);
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    position: relative;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border-radius: 30px;
+    
+    padding:  5px 20px;
+    opacity: 0.9;
+   }
+
+   #prof-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    display: inline-block;
+    margin-top: 20px;
+    transition: transform 1s;
+   }
+   
+  .fa-facebook-square {
+    color: #03e6ff;
+    background-image: linear-gradient( to bottom, transparent 20%, white 20%, white 93%, transparent 93% );
+    height: 35px;
+    width: 15px;
+    background-position: 70% 0;
+    background-repeat: no-repeat;
+  }
+
+  .link {
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .iconlink {
+    height: 30px;
+    width: 25px;
+    text-decoration: none;
+    font-size: 34px;
+    color: rgb(94, 92, 92);
+    margin-left: 5px;
+  }
+
+  .fa-file-text {
+    font-size: 28px;
+  }
+  .fa-linkedin:hover{
+    color: #0077b5;
+    transition: all 0.5 ease;
+  }
+  .fa-google:hover{
+    color: #F4B400;
+    transition: all 0.5 ease;
+  }
+  .fa-medium:hover{
+    color: #000000;
+    transition: all 0.5 ease;
+  }
+  .fa-instagram:hover{
+    color: #e1306c;
+    transition: all 0.5 ease;
+  }
+  .fa-github:hover{
+    color: #000000;
+    transition: all 0.5 ease;
+  }
+  .fa-file-pdf-o:hover{
+    color: #ED2224;
+    transition: all 0.5 ease;
+  }
+
+  .iconlink:hover {
+    font-size: 42px;
+  }
+
+  p {
+    font-family: 'Titillium Web';
+    font-size: 18px;
+  }
+
+  div {
+    font-family: 'Titillium Web';
+    font-size: 18px;
+  }
+
+  footer {
+    background-color: #00003d;
+    opacity: 0.7;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    color: rgb(240, 240, 240);
+    font-size: 20px;
+  }
+
+  .footerlink {
+    font-size: 18px;
+    color: rgb(166, 171, 192);
+    text-decoration: none;
+  }
