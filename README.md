@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Profile.jpg" alt="Saurabh Yadav" width="150" style="border-radius:50%">
+  <img src="Profile.jpg" alt="Saurabh Yadav" width="150" style="border-radius:50%">
 </p>
 
 <h1 align="center">Saurabh Yadav 👋</h1>
