@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Saurabh Yadav 👋</h1>
 
 <p align="center">
-🎓 CSE Student (AI-Driven Language Tech) @ KL University | 💻 Full-Stack Developer | ☁️ Cloud & ML Enthusiast
+🎓 CSE Student (AI-Driven Language Tech) @KLUniversity | 💻 Full-Stack Developer | ☁️ Cloud & ML Enthusiast
 </p>
 
 ---
